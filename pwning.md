@@ -5,6 +5,16 @@
 for j in {20..45}; do echo -n "$j: "; ./a.out `ruby -e "print 'A'*$j"`; done
 ```
 
+## Check Method Names
+
+```
+
+nm binary | grep " t "
+
+
+```
+
+
 ## One-Liner Payload
 
 ```

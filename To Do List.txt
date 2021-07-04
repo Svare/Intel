@@ -1,0 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie
+https://www.freecodecamp.org/news/http-401-error-vs-http-403-error-status-code-responses-explained/#:~:text=The%20401%20(Unauthorized)%20status%20code,or%20replaced%20Authorization%20header%20field.
+https://linuxconfig.org/how-to-change-welcome-message-motd-on-ubuntu-18-04-server
